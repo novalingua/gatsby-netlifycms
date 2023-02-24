@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Alex Murphy
+title: NEOLINGO
 image: /img/home-jumbotron.jpg
-heading: Alex Murphy
-subheading: Developer with a flair for design
+heading: NEOLINGO
+subheading: A blog about language learning and acquisition
 ---
